@@ -47,7 +47,7 @@ Denne GitHub indeholder anbefalede danske termer for sprogteknologi samt deres b
 | multimodal (model)                   | multimodal                        | En model der kombinerer flere modaliteter, eksempelvis billeder og tekst                                            |
 | multilingual (model)                 | flersproglig (model)              | En model som understøtter flere sprog                                                                               |
 | Natural Language Understanding (NLU) | sprogforståelse                   | At forstå (evt. statistisk) betydningen af tekst                                                                    |
-| Named Entity Recognition (NER)       |                                   | At identificere navngivne entiteter i tekst                                                                         |
+| Named Entity Recognition (NER)       | Entitetsgenkendelse               | At identificere navngivne entiteter i tekst                                                                         |
 | prompt                               | prompt                            | En forklaring af en opgave givet til en (sprog)model                                                                |
 | prompt engineering                   | promptoptimering                  | Processen i at finde den beskrivelse af opgaven som får en model til generelt at løse opgaven bedst                 |
 | Retrieval-Augmented Generation (RAG) | fremsøgningsforstærket generering | En metode til at generere output ved at kombinere hentning og generation                                            |
