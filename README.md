@@ -10,6 +10,7 @@ Denne GitHub indeholder anbefalede danske termer for sprogteknologi samt deres b
 | classify     | klassificere          | At kategorisere data i foruddefinerede grupper                                                        |
 | cluster      | gruppere              | At gruppere data baseret på ligheder                                                                  |
 | disambiguate | entydiggøre           | At fjerne tvetydighed ud fra konteksten. Eksempelvis kan "helt" referere til en "superhelt" eller "helt iorden" |
+| curate       | kuratere              | At udvælge eller oprense elementer til et korpus                                                      |
 | encode       | indkode               | At repræsentere data i en specifik form                                                               |
 | evaluate     | evaluere              | At vurdere en models evner til at løse en eller flere opgaver                                         |
 | extract      | udtrække              | At udtrække specifik information                                                                      |
